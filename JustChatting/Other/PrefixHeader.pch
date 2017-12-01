@@ -1,0 +1,34 @@
+//
+//  PrefixHeader.pch
+//  JustChatting
+//
+//  Created by Lemonade on 2017/8/31.
+//  Copyright © 2017年 Lemonade. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Macros.h"
+#import "UserDataManager.h"
+#import "PDProgressHUD.h"
+
+#import <AFNetworking.h>
+#import <MJExtension.h>
+#import <MJRefresh.h>
+
+#import <Masonry.h>
+#import <MBProgressHUD.h>
+
+#import <PYSearch.h>
+#import <PYPhotoBrowser.h>
+#import <DKNightVersion.h>
+
+#import <Hyphenate/Hyphenate.h>
+#import <YYText.h>
+#import <BaiduMapAPI_Map/BMKMapComponent.h>
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>
+#import <BaiduMapAPI_Search/BMKSearchComponent.h>
+
+
+#endif /* PrefixHeader_pch */
